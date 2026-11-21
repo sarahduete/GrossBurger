@@ -38,7 +38,6 @@ Também utilizei JavaScript para implementar interações na navegação do site
 
 - HTML
 - CSS
-- PHP
 - JavaScript
 
 ## 🖥️ Prévia do projeto

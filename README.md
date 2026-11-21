@@ -44,8 +44,6 @@ Também utilizei JavaScript para implementar interações na navegação do site
 
 ## 🖥️ Prévia do projeto
 
-**Prévia do projeto**
-
 <img width="1920" height="2329" alt="image" src="https://github.com/user-attachments/assets/9bc2a782-b837-47cf-92d8-771b705a95cd" />
 
 

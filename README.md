@@ -36,11 +36,10 @@ Também utilizei JavaScript para implementar interações na navegação do site
 
 ## 🛠️ Tecnologias utilizadas
 
-| Tecnologia | Utilização |
-|---|---|
-| HTML | Estrutura das páginas |
-| CSS | Estilização e identidade visual |
-| JavaScript | Interações e navegação |
+- HTML
+- CSS
+- PHP
+- JavaScript
 
 ## 🖥️ Prévia do projeto
 
